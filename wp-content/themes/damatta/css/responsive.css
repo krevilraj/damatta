@@ -1,0 +1,343 @@
+/*// X-Small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+
+/*    top cart */
+    .right__cart {
+        display: none;
+    }
+    .hero #wrapper {
+        display: none;
+    }
+    .topbar__logo img{
+        max-width: 80px;
+    }
+
+    .hero .slide-head h1 {
+        overflow: unset;
+        white-space: unset;
+        animation: unset;
+        font-size: 2rem;
+    }
+
+    .hero .carousel-item .carousel-caption {
+        top: 32%;
+    }
+
+    /* about us page  */
+  .body__section__card .qualidade {
+    padding-top: unset;
+    padding-bottom: unset;
+  }
+
+  .aboutTop .container-fluid{
+    padding-left: var(--bs-gutter-x,.75rem);
+  }
+
+  .aboutTop .aboutTop__rigt img {
+    width: unset;
+  }
+.qualidade__left h4 {
+    font-size: 2.2rem;
+}
+.aboutPresuntos_right h4 {
+    font-size: 2.2rem;
+}
+
+.qualidade__right {
+    margin-bottom: unset;
+}
+
+    .aboutPresuntos_right h3 {
+        font-size: 2.7rem;
+    }
+
+    .aboutPresuntos__left {
+       margin-bottom: unset;
+    }
+
+    .materia-prima_right h3 {
+        font-size: 2.7rem;
+        line-height: 2rem;
+    }
+
+    .presuntos-page .aboutTop__rigt p{
+        padding: 0;
+    }
+    .materia-prima_right {
+        padding: 8%;
+    }
+
+    .materia-prima_right h4 {
+        font-size: 2.2rem;
+    }
+
+    .body__section__card .salga {
+        padding-top: unset;
+        padding-bottom: unset;
+    }
+
+    .salga__left h3{
+        font-size: 2.7rem;
+        line-height: 2rem;
+    }
+    .salga__left {
+        padding: 8%;
+    }
+    .salga__left h4 {
+        font-size: 2.2rem;
+    }
+
+    .salga__left {
+        margin-top: unset;
+    }
+
+    .cura_right h3 {
+        font-size: 2.7rem;
+        line-height: 2rem;
+    }
+    .cura_right h4 {
+        font-size: 2.2rem;
+    }
+
+    .cura_right {
+        padding: 8%;
+    }
+
+    .a-maturacao {
+        padding-top: unset;
+    }
+
+    .cura__left {
+        margin-bottom: unset;
+    }
+
+    .a-maturacao__left h3 {
+        font-size: 2.7rem;
+        line-height: 2rem;
+    }
+
+    .a-maturacao__left h4 {
+        font-size: 2.2rem;
+    }
+
+    .a-maturacao__left {
+        padding: 8%;
+    }
+    .a-maturacao__right {
+        margin-bottom: unset;
+    }
+
+    .aboutTop .aboutTop__rigt p {
+        padding: unset;
+    }
+
+    
+    .body__section .osnossos__left h3 {
+        font-size: 2.2rem;
+    }
+    .body__section .osnossos__left {
+        padding-left: unset;
+        padding-right: unset;
+    }
+
+
+    .history__left {
+        padding: 8%;
+    }
+   
+    .right__video {
+        right: unset;
+    }
+
+    .right__video img {
+        max-width: 100%;
+    }
+    .receitas #product__tab__inn a{
+        font-size: 15px;
+    }
+ 
+
+}
+
+/*// Small devices (landscape phones, less than 768px)*/
+@media (max-width: 767.98px) {
+
+       .hero .carousel-item {
+        height: auto;
+    }
+    .history__row{
+        padding-left: unset;
+    }
+
+    .history__left {
+        margin-right: unset;
+        margin-top: unset;
+    }
+
+    /* about us page  */
+        .aboutTop .aboutTop__rigt img {
+            margin-top: 55px;
+    }
+
+      .aboutTop .aboutTop__rigt {
+        padding-right: unset;
+    }
+
+    .qualidade__left{
+        margin-right: unset;
+        padding: 8%;
+    }
+    .qualidade__left h3 {
+        font-size: 2.7rem;
+    }
+
+    .aboutPresuntos_right {
+        margin-right: unset;
+        padding: 8%;
+    }
+.aboutPresuntos_right {
+    margin-left: unset;
+}
+
+    .presuntos-page .container-fluid {
+        padding-left: var(--bs-gutter-x,.75rem);
+    }
+
+    .presuntos-page .aboutTop__rigt {
+        padding-top: 25px;
+    }
+
+    .materia-prima_right {
+        margin-left: unset;
+    }
+
+    .materia-prima {
+        padding-top: unset;
+    }
+    .salga__left {
+        margin-right: unset;
+    }
+
+    .cura_right {
+        margin-left: unset;
+    }
+    .cura {
+        padding-top: 0;
+    }
+    .a-maturacao__left {
+        margin-right: unset;
+    }
+
+    .hero .carousel-caption h1 {
+        font-size: 2rem;
+    }
+    .body__section .osnossos__left h2 {
+        font-size: 2.7rem;
+        line-height: 2rem;
+    }
+
+    .history__left h3 {
+        font-size: 2.7rem;
+        line-height: 2rem;
+    }
+    .history__left h4 {
+        font-size: 2.2rem;
+    }
+
+    .presuntos .presuntos__detail h3 {
+        font-size: 2.7rem;
+        line-height: 2rem;
+    }
+    .presuntos .presuntos__detail h4 {
+        font-size: 2.2rem;
+    }
+
+    .receitas__heading h3 {
+        font-size: 2.7rem;
+        line-height: 2.2rem;
+    }
+
+    .receitas__heading h4  {
+        font-size: 2.2rem;
+    }
+.presuntos-page .aboutTop__rigt h4 {
+    font-size: 2.7rem;
+}
+.salga__left h3 {
+    font-size: 2.2rem;
+}
+
+.receitas-banner h3 {
+    font-size: 2rem;
+}
+#scroll-down {
+    display: none;
+}
+.receitas-banner p {
+    width: 90%;
+}
+
+.topbar__main .topbar__menu h3 {
+    display: none;
+}
+
+.receitas-banner .banner-caption {
+    top: 58%;
+}
+
+.gamas-banner h3 {
+    font-size: 3rem;
+}
+
+.gamas-banner .banner-caption {
+    top: 58%;
+}
+.gamas-banner p {
+    width: 90%;
+}
+ .fatiados-banner p  {
+    width: 90%;
+ }
+ .fatiados-banner h3 {
+    font-size: 2.2rem;
+ }
+
+ .fatiados-banner h2 {
+    font-size: 2rem;
+ }
+
+ .fatiados-banner .banner-caption {
+    top: 58%;
+ }
+
+ .fatiados-category .product__item img {
+    max-width: 120px;
+ }
+ .hero .carousel-item {
+    height: 60vh;
+ }
+
+
+.receitas #product__tab-desktop{
+    display: none;
+}
+.receitas #product__tab-mobile{
+   display: block;
+}
+#product__tab__inn .product__tab__name{
+    padding: 15px 0;
+}
+
+}
+
+
+@media (max-width: 991.98px) { 
+
+
+
+ }
+
+
+@media (max-width: 1199.98px) {  }
+
+@media (max-width: 1399.98px) {  }
